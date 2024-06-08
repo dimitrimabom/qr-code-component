@@ -44,6 +44,8 @@ I remembered some forgotten CSS attributes, such as flex-grow which has an eleme
 
 ### Useful resources
 
+- [Free Host](https://render.com/) - Our fastest path to production
+Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth.
 - [Generate my QR Code](https://myqrcode.com/) - This site allowed me to easily generate my QR Code.
 - [Font Used](https://fonts.google.com/specimen/Outfit) - This font is really very beautiful
 
