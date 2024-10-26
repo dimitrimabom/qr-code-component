@@ -51,6 +51,6 @@ Build, deploy, and scale your apps with unparalleled ease – from your first us
 
 ## Author
 
-- Website - [Dimitri Mabom](https://github.com/dimysenpai)
-- Frontend Mentor - [@dimysenpai](https://www.frontendmentor.io/profile/dimysenpai)
+- Website - [Dimitri Mabom](https://github.com/dimitrimabom)
+- Frontend Mentor - [@dimitrimabom](https://www.frontendmentor.io/profile/dimitrimabom)
 - Linkedin - [Dimitri Mabom](https://www.linkedin.com/in/dimitri-mabom/)
